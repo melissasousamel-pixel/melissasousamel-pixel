@@ -1,16 +1,19 @@
-## Hi there 👋
+# Ola, eu sou a Melissa! 👋
 
-<!--
-**melissasousamel-pixel/melissasousamel-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Curso ou formação
+- Estudante de Desenvolvimento de Sistemas
+---
+### 👤Breve apresentação
+Atualmente trabalho como Auxiliar de Produção e estou estudando Desenvolvimento de Sistemas. Sou uma pessoa dedicada, curiosa e focada em aprender novas tecnologias.
+---
+### 💘 Objetivos Profissionais
+Meu objetivo é migrar para área de tecnologia, conquistar minha primeira oportunidade como desenvolvedora e construir uma carreira sólida na área de TI.
+---
 
-Here are some ideas to get you started:
+- 🔭 **Atualmente estou trabalhando em:** Meu Primeiro Site
+- ☘️ **Atualmente estou aprendendo:** HTML, CSS e JavaScript
+- 👯 **Procurando colaborador em.** Projetos iniciantes para praticar HTML e CSS
+- 🤝 **Procurando ajuda com.** Dicas e boas praticas para iniciantes em programação
+- 💭 **Pode me perguntar sobre.** O que estou achando do mundo da tecnologia
+- 📫 **Como me encontrar**Meu perfil do LinkedIn)www.linkedin.com/in/melissa-sousa-6baab4373
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
