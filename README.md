@@ -12,8 +12,8 @@ Meu objetivo é migrar para área de tecnologia, conquistar minha primeira oport
 
 - 🔭 **Atualmente estou trabalhando em:** Meu Primeiro Site
 - ☘️ **Atualmente estou aprendendo:** HTML, CSS e JavaScript
-- 👯 **Procurando colaborador em.** Projetos iniciantes para praticar HTML e CSS
-- 🤝 **Procurando ajuda com.** Dicas e boas praticas para iniciantes em programação
-- 💭 **Pode me perguntar sobre.** O que estou achando do mundo da tecnologia
+- 👯 **Procurando colaborador em:** Projetos iniciantes para praticar HTML e CSS
+- 🤝 **Procurando ajuda com:** Dicas e boas práticas para iniciantes em programação
+- 💭 **Pode me perguntar sobre:** O que estou achando do mundo da tecnologia
 - 📫 **Como me encontrar**Meu perfil do LinkedIn)www.linkedin.com/in/melissa-sousa-6baab4373
 
